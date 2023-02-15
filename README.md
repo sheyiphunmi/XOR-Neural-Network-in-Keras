@@ -20,4 +20,5 @@ Users can use this code as a template for building and training their own neural
 
 Contributions to this repository are welcome. Users can fork the repository, make changes, and submit pull requests.
 
-License: This code is licensed under the MIT License, which allows for free use, modification, and distribution.
+### License: 
+This code is licensed under the MIT License, which allows for free use, modification, and distribution.
